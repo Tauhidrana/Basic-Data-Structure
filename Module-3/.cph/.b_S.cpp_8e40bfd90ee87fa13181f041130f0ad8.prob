@@ -1,0 +1,1 @@
+{"name":"Local: b_S","url":"f:\\Phitron\\Basic Data Structure\\Module-3\\b_S.cpp","tests":[{"id":1766054024047,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":"found\nfound\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\Basic Data Structure\\Module-3\\b_S.cpp","group":"local","local":true}

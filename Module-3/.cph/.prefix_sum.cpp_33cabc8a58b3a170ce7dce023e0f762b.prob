@@ -1,0 +1,1 @@
+{"name":"Local: prefix_sum","url":"f:\\Phitron\\Basic Data Structure\\Module-3\\prefix_sum.cpp","tests":[{"id":1766054906125,"input":"6 3\n6 4 2 7 2 7\n1 3\n3 6\n1 6","output":"12\n18\n28\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\Basic Data Structure\\Module-3\\prefix_sum.cpp","group":"local","local":true}
